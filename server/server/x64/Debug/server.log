@@ -1,0 +1,4 @@
+﻿  server.cpp
+C:\Users\az711\OneDrive\Документы\lr3\server\server\server.cpp(46,72): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\az711\OneDrive\Документы\lr3\server\server\server.cpp(54,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  server.vcxproj -> C:\Users\az711\OneDrive\Документы\lr3\server\x64\Debug\server.exe

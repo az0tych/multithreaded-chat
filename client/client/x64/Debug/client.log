@@ -1,0 +1,5 @@
+﻿  client.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\format(42): warning STL4038: The contents of <format> are available only with C++20 or later.
+C:\Users\az711\OneDrive\Документы\lr3\client\client\client.cpp(82,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\az711\OneDrive\Документы\lr3\client\client\client.cpp(94,68): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  client.vcxproj -> C:\Users\az711\OneDrive\Документы\lr3\client\x64\Debug\client.exe
